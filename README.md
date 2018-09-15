@@ -4,12 +4,12 @@ A simple NPM package to map an array of objects to an object of unique values.
 
 ## Usage
 
-> npm install array-object-dictionary
+> npm i @cryptoscamdb/array-object-dictionary
 
 ## Example
 
 ```
-const dictionary = require('array-object-dictionary');
+const dictionary = require('@cryptoscamdb/array-object-dictionary');
 
 const cats = [{
     name: "Kitty",
