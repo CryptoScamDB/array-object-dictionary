@@ -1,11 +1,11 @@
 {
-  "name": "array-object-dictionary",
+  "name": "@cryptoscamdb/array-object-dictionary",
   "version": "1.0.0",
   "description": "A simple NPM package to map an array of objects to an object of unique values",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrLuit/array-object-dictionary.git"
+    "url": "git+https://github.com/CryptoScamDB/array-object-dictionary.git"
   },
   "keywords": [
     "array",
@@ -17,7 +17,7 @@
   "author": "Luit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MrLuit/array-object-dictionary/issues"
+    "url": "https://github.com/CryptoScamDB/array-object-dictionary/issues"
   },
-  "homepage": "https://github.com/MrLuit/array-object-dictionary#readme"
+  "homepage": "https://github.com/CryptoScamDB/array-object-dictionary#readme"
 }
