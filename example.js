@@ -1,4 +1,4 @@
-const dictionary = require('./index'); // const dictionary = require('@cryptoscamdb/array-object-dictionary');
+const dictionary = require('./src/index'); // const dictionary = require('@cryptoscamdb/array-object-dictionary');
 
 const cats = [{
     name: "Kitty",
