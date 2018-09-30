@@ -2,7 +2,8 @@
   "name": "@cryptoscamdb/array-object-dictionary",
   "version": "1.0.2",
   "description": "A simple NPM package to map an array of objects to an object of unique values",
-  "main": "src/index.ts",
+  "main": "lib/array-object-dictionary.js",
+  "typings": "typings/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CryptoScamDB/array-object-dictionary.git"
